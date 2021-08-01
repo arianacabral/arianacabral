@@ -4,7 +4,9 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=arianacabral&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianacabral&layout=compact&langs_count=7&theme=jolly"/>
 </div>
-  
+ 
+##
+ 
 <div style="display: inline_block"><br>
 <img align="center" alt="R" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-plain.svg">
   <img align="center" alt="RStudio" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-plain.svg">
@@ -17,7 +19,7 @@
   <img align="center" alt="CSS" height="30" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
   
-  ##
+ ##
 
  <div> 
 
