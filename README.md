@@ -1,3 +1,5 @@
+### Hi there! <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
+
 ## 
  <div align="center">
   <a href="https://github.com/arianacabral">
