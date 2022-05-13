@@ -1,5 +1,11 @@
 ### Hi there! <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
+ ##
+
+ | [<img src="https://github.com/arianacabral/weather/raw/main/Partly%20Cloudly/demo/demo_cloudly.gif" width="100%;"/><br /><sub>🌤 Partly Cloudly</sub>](https://github.com/arianacabral/weather)<br /> |  [<img src="https://github.com/arianacabral/weather/blob/main/Cloudly/demo/demo_cloudly.gif" width="100%;"/><br /><sub>☁️ Cloudly</sub>](https://github.com/arianacabral/weather)<br /> | [<img src="https://github.com/arianacabral/weather/raw/main/Starry/demo/demo_starry.gif" width="100%;"/><br /><sub>✨ Starry</sub>](https://github.com/arianacabral/weather)<br /> |
+| :---: | :---: | :---: |
+| [<img src="https://github.com/arianacabral/HP/raw/main/hp-glasses/demo/demo_hp_glasses.gif" width="100%;"/><br /><sub>Harry Potter Glasses</sub>](https://github.com/arianacabral/HP)<br /> |  [<img src="https://github.com/arianacabral/HP/raw/main/hp-deathly_hallows/demo/demo_hp_deathly_hallows.gif" width="100%;"/><br /><sub>Deathly Hallows</sub>](https://github.com/arianacabral/HP)<br /> | [<img src="https://github.com/arianacabral/HP/raw/main/hp-glasses/demo/demo_hp_glasses.gif" width="100%;"/><br /><sub>Harry Potter Glasses</sub>](https://github.com/arianacabral/HP)<br /> |
+
 ## 
  <div align="center">
   <a href="https://github.com/arianacabral">
