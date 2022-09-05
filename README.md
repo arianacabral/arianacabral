@@ -1,6 +1,14 @@
 ### Hi there! <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
+🔍 Always curious and building things
+
+🎲 Currently working with Data Science and Biomedical Signal Processing
+
+🎨 I'm an art enthusiast, creating traditional/digital art and developing CSS animation
+
  ##
+
+### My artwork <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
  | [<img src="https://github.com/arianacabral/weather/raw/main/Partly%20Cloudly/demo/demo_cloudly.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> |  [<img src="https://github.com/arianacabral/weather/blob/main/Cloudly/demo/demo_cloudly.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> | [<img src="https://github.com/arianacabral/weather/raw/main/Starry/demo/demo_starry.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> |
 | :---: | :---: | :---: |
