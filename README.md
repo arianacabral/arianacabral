@@ -2,6 +2,8 @@
 
 🔍 Always curious and building things
 
+⭐ I'm a Full stack developer
+
 🎲 Currently working with Data Science and Biomedical Signal Processing
 
 🎨 I'm an art enthusiast, creating traditional/digital art and developing CSS animation
