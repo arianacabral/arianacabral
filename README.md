@@ -4,7 +4,7 @@
 
 ⭐ I'm a Full Stack Developer
 
-🎲 Currently working with sata Science and Biomedical Signal Processing
+🎲 Currently working with Data Science and Biomedical Signal Processing
 
 🎨 I'm an art enthusiast, creating traditional/digital art and developing CSS animation
 
