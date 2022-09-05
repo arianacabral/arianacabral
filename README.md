@@ -1,8 +1,8 @@
 ### Hi there! <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
-🔍 Always curious and building things
-
 ⭐ I'm a Full Stack Developer
+
+🔍 Always curious and building things
 
 🎲 Currently working with Data Science and Biomedical Signal Processing
 
