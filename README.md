@@ -1,10 +1,10 @@
 ### Hi there! <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
-⭐ I'm a Full Stack Developer
+
 
 🔍 Always curious and building things
 
-🎲 Currently working with Data Science and Biomedical Signal Processing
+🎲 Currently working with Data Science and Biomedical Signal Processing in R (💙)
 
 🎨 I'm an art enthusiast, creating traditional/digital art and developing CSS animation
 
