@@ -1,6 +1,6 @@
 ### Hi there! <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
-
+<img align="right" src="https://user-images.githubusercontent.com/21102900/225454985-d608c874-acbb-4c98-9e10-01b426616626.png" width="300"/>
 
 🔍 Always curious and building things
 
