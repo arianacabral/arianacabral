@@ -56,3 +56,11 @@
   <a href = "mailto:arianacabral57@ufu.br"><img src="https://img.shields.io/badge/-UFU-%23337?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/RTXE2NMVSA" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
+
+##
+
+<div align="center" style="display: inline_block">
+ 
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qcutfoujc3lqa22usap3smznbu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+ 
+</div>
