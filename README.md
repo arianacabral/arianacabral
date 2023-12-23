@@ -10,7 +10,7 @@
 
  ##
 
-### My artwork <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
+### My artwork with CSS <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
 | [<img src="https://github.com/arianacabral/lineart/blob/main/tulip/demo/demo_tulip.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> |  [<img src="https://github.com/arianacabral/lineart/blob/main/flower/demo/demo_flower.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> | [<img src="https://github.com/arianacabral/lineart/blob/main/tulip/demo/demo_tulip.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> |
 | :---: | :---: | :---: |
