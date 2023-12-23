@@ -10,7 +10,7 @@
 
  ##
 
-### My artwork with CSS <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
+### My artwork <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
 
 | [<img src="https://github.com/arianacabral/lineart/blob/main/tulip/demo/demo_tulip.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> |  [<img src="https://github.com/arianacabral/lineart/blob/main/flower/demo/demo_flower.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> | [<img src="https://github.com/arianacabral/lineart/blob/main/tulip/demo/demo_tulip.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> |
 | :---: | :---: | :---: |
@@ -21,8 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/arianacabral">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arianacabral&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianacabral&layout=compact&langs_count=7&theme=jolly"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arianacabral&show_icons=true&theme=jolly&border_radius=25&count_private=true&include_all_commits=true&rank_icon=github"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianacabral&layout=compact&langs_count=10&theme=jolly&border_radius=25"/>
 </div>
  
 ##
