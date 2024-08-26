@@ -16,14 +16,6 @@
 | :---: | :---: | :---: |
  | [<img src="https://github.com/arianacabral/weather/raw/main/Partly%20Cloudly/demo/demo_cloudly.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> |  [<img src="https://github.com/arianacabral/weather/blob/main/Cloudly/demo/demo_cloudly.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> | [<img src="https://github.com/arianacabral/weather/raw/main/Starry/demo/demo_starry.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> |
 | [<img src="https://github.com/arianacabral/HP/raw/main/hp-glasses/demo/demo_hp_glasses.gif" width="100%;"/>](https://github.com/arianacabral/HP)<br /> |  [<img src="https://github.com/arianacabral/HP/raw/main/hp-deathly_hallows/demo/demo_hp_deathly_hallows.gif" width="100%;"/>](https://github.com/arianacabral/HP)<br /> | [<img src="https://github.com/arianacabral/HP/raw/main/hp-lumos/demo/demo_lumos.gif" width="100%;"/>](https://github.com/arianacabral/HP)<br /> |
-
-## 
-
-<div align="center">
-  <a href="https://github.com/arianacabral">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arianacabral&show_icons=true&theme=jolly&border_radius=25&count_private=true&include_all_commits=true&rank_icon=github"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianacabral&layout=compact&langs_count=10&theme=jolly&border_radius=25"/>
-</div>
  
 ##
  
