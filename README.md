@@ -51,10 +51,3 @@
 
 ##
 
-### Now Playing <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
-
-<div align="center" style="display: inline_block">
- 
- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qcutfoujc3lqa22usap3smznbu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
- 
-</div>
