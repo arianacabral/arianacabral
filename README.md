@@ -43,4 +43,8 @@
 </div>
  
  -->
- 
+
+**I solemnly swear that I am up to no good — just committing** <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
+ <div align="center">
+  <img src="https://github.com/arianacabral/gh-marauders-map/blob/main/assets/contributions.svg" alt="Marauder's Map" width="100%" height="auto" />
+ </div>
