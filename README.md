@@ -11,14 +11,6 @@
  ##
 
 <!--
-### My artwork <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
-
-| [<img src="https://github.com/arianacabral/lineart/blob/main/tulip/demo/demo_tulip.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> |  [<img src="https://github.com/arianacabral/lineart/blob/main/flower/demo/demo_flower.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> | [<img src="https://github.com/arianacabral/lineart/blob/main/tulip/demo/demo_tulip.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> |
-| :---: | :---: | :---: |
- | [<img src="https://github.com/arianacabral/weather/raw/main/Partly%20Cloudly/demo/demo_cloudly.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> |  [<img src="https://github.com/arianacabral/weather/blob/main/Cloudly/demo/demo_cloudly.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> | [<img src="https://github.com/arianacabral/weather/raw/main/Starry/demo/demo_starry.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> |
-| [<img src="https://github.com/arianacabral/HP/raw/main/hp-glasses/demo/demo_hp_glasses.gif" width="100%;"/>](https://github.com/arianacabral/HP)<br /> |  [<img src="https://github.com/arianacabral/HP/raw/main/hp-deathly_hallows/demo/demo_hp_deathly_hallows.gif" width="100%;"/>](https://github.com/arianacabral/HP)<br /> | [<img src="https://github.com/arianacabral/HP/raw/main/hp-lumos/demo/demo_lumos.gif" width="100%;"/>](https://github.com/arianacabral/HP)<br /> |
- 
-##
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
@@ -44,7 +36,16 @@
  
  -->
 
+ ### Some of My Artwork <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
+
+| [<img src="https://github.com/arianacabral/lineart/blob/main/tulip/demo/demo_tulip.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> |  [<img src="https://github.com/arianacabral/lineart/blob/main/flower/demo/demo_flower.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> | [<img src="https://github.com/arianacabral/lineart/blob/main/tulip/demo/demo_tulip.gif" width="100%;"/>](https://github.com/arianacabral/lineart)<br /> |
+| :---: | :---: | :---: |
+ | [<img src="https://github.com/arianacabral/weather/raw/main/Partly%20Cloudly/demo/demo_cloudly.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> |  [<img src="https://github.com/arianacabral/weather/blob/main/Cloudly/demo/demo_cloudly.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> | [<img src="https://github.com/arianacabral/weather/raw/main/Starry/demo/demo_starry.gif" width="100%;"/>](https://github.com/arianacabral/weather)<br /> |
+| [<img src="https://github.com/arianacabral/HP/raw/main/hp-glasses/demo/demo_hp_glasses.gif" width="100%;"/>](https://github.com/arianacabral/HP)<br /> |  [<img src="https://github.com/arianacabral/HP/raw/main/hp-deathly_hallows/demo/demo_hp_deathly_hallows.gif" width="100%;"/>](https://github.com/arianacabral/HP)<br /> | [<img src="https://github.com/arianacabral/HP/raw/main/hp-lumos/demo/demo_lumos.gif" width="100%;"/>](https://github.com/arianacabral/HP)<br /> |
+ 
+##
+
 **I solemnly swear that I am up to no good — just committing** <img src='https://static.wixstatic.com/media/39723d_d34b73162fa54ebfb81711d82fcb842a~mv2.gif' width='30'/>
  <div align="center">
-  <img src="https://github.com/arianacabral/gh-marauders-map/blob/main/assets/contributions.svg" alt="Marauder's Map" width="100%" height="auto" />
+  <img src="assets/contributions.svg" alt="Marauder's Map" width="100%" height="auto" />
  </div>
